@@ -8,6 +8,7 @@ o.shipmode,
 o.ordercostsellingprice - o.ordercustprice as orderprofit,
 
 -- from raw customer
+c.customerid,
 c.customername, 
 c.segment, 
 c.country,
