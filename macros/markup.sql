@@ -1,0 +1,3 @@
+{% macro markup() %}
+(ORDERCOSTSELLINGPRICE - ORDERCUSTPRICE)/ ORDERCUSTPRICE
+{% endmacro %}
